@@ -1,3 +1,11 @@
+/*
+ * Apr-Jun 2021
+ * Written by: Jake Helpinstill
+ * 
+ * Designed for the Atmel ATtiny85 processor to be used in conjunction 
+ * with any 8-bit SIPO shift register. Can control up to 8 servo motors.
+ */
+
 #define DEBUG 0
 //#define PIN1 1
 
